@@ -1,8 +1,5 @@
 Power BI – Welcome to my Power BI project. This project helped me explore how data can tell real stories — in this case, understanding how people make investment decisions.
 
-🌟 About Cognifyz Technologies: Cognifyz Technologies is a company that works in data science, AI, and analytics. They provide smart solutions and also offer internships that help students learn practical data skills.
-
-
 🧩 Project Overview: Here’s a short summary of what each task was about 👇
 
 
@@ -49,7 +46,9 @@ Added filters, slicers, and summary metrics to make it easy to explore.
 Presented final insights clearly and professionally.
 
 
-📊 Key Insights
+
+
+Key Insights
 
 Here are the main findings from my overall analysis:
 
