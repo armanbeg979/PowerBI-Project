@@ -74,6 +74,11 @@ Analytical Thinking & Storytelling – For presenting insights clearly.
 
 
 
+
+
+
+
+
 💼 Business Decisions & Recommendations:
 
 Based on the insights from the analysis, here are some data-driven business decisions and suggestions that could be made:
